@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "SunEater")(type "KiCad")(uri "${KIPRJMOD}/SunEater.kicad_sym")(options "")(descr ""))
+)
